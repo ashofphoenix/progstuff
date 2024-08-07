@@ -1,0 +1,12 @@
+/*
+ * visual of B-tree fubar */
+ * [tabs space slash/\] assets */
+	  45	tsi
+	 /  \	tsBssB
+	21   54	tisssi
+
+	 541		t{t}si
+	 /  \	 	ts{t}BssB
+	xi   1450	tissi
+
+
