@@ -14,3 +14,8 @@
 		145  6810	ttissi
 		/ \   / \	ttsBssB
 	       41 45 810 1086	t---is{ssss}isi
+		5410		tti
+		 /  \		ttsBssB
+		145  6810	ttissi
+		/ \   / \	ttsBssB
+	       41 45 810 1086	t---is{ssss}isi
